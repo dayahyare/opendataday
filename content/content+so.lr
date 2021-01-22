@@ -4,75 +4,77 @@ next_date: 2021-03-06
 ---
 title: You are invited
 ---
-banner_heading_1: You are invited.
+banner_heading_1: Ku soo biir
 ---
-banner_heading_2: Again!
+banner_heading_2: Markale!
 ---
-banner_content_1: Open Data Day 2021 will take place on
+banner_content_1: Maalinta Xogta Furan ee 2021 waxay ku beegan tahay
 ---
-banner_content_2: Saturday 6th March
+banner_content_2: Sabti 6da Maarso
 ---
-intro_heading: What is Open Data Day?
+intro_heading: Waa maxay Maalinta Xogta Furan? 
 ---
 intro_body:
 
-Open Data Day is an annual celebration of open data all over the world. Groups from around the world create local events on the day where they will use open data in their communities. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society.
+Maalinta Xogta Furan waa maalin dunida oo idil u dabaal dagto XOGTA FURAN (Open Data). Kooxaha u ololeeya Xogtaha Furan ayaa iskugu yimaado kulamo maxali ah oo looga hadlayo adeegsiga xogaha furan ee bulshada. Waa fursad lagu soo bandhigo waxtarka xogta furan laguna dhiirrigeliyo ku dhaqankeeda dhinacyada bulshada sida; dowladda, ganacsatada iyo bulshada rayidka.
 ---
 intro_body_2:
 
-All outputs are open for everyone to use and re-use.
+Dhammaan wax soo saarka ayaa u furan qof walba inuu isticmaalayo ama dib u isticmaalayo.
 ---
 year_intro:
 
-For Open Data Day 2021, we will give mini-grants focused on the key areas below that we believe open data can help solve:
+
+Sannadkan, waxaan diiradda saari doonnaa afar meelood oo muhiim ah oo aan aaminsanahay inay ka faa'iideysan karaan isticmaalka xogta furan:
+Xogta Deegaanka
+
+ ---
+year_label_1: **Xogta** Deegaanka
 ---
-year_label_1: Environmental **data**
+year_label_2: La Socoshada **Dakhliga** Dawlada
 ---
-year_label_2: Tracking public **money** flows
+year_label_3: Fur **Khariidad**
 ---
-year_label_3: Open **mapping**
----
-year_label_4: Data for **equal development**
+year_label_4: Data for **equal development** Xog Furan oo **loo siman yahay**
 ---
 register_text: Register your event
 ---
-events_registered: events registered so far
+events_registered: events registered so far Halkaan ka Diiwaangeli 
 ---
-who_heading: Who is this for? Everyone!
+who_heading:  YAA TAN LOOGU TALAGALAY? QOF WALBA!
 ---
 who_body:
+Ka qaybqaadashadu waa qiime muhiim ah Maalinta Xogta Furan, qof kastaa wuxuu xor u yahay inuu ra'yigiisa uga dhiibto qaab wax dhisaya. Macno malahan xirfad-dejintaada ama danahaaga, waxaan ku dhiirrigelineynaa abaabulayaasha inay kobciyaan fursado aad adigu wax ku barato oo aad ka caawiso bulshada xogta furan ee adduunka inay koraan. Haddii aad fikrad ka haysato sida loo adeegsado xogta furan, oo aad dooneysid inaad ka qeyb qaadato mashruuc xiise leh oo aad wax ku tarto, ama aad dooneysid inaad barato sida loo bandhigo ama loo falanqeeyo xogta ama aad dooneysid inaad la socotid waxtarka iyo saameynta xogaha furan, kaalay oo ka qaybgal! Ka qaybgalkaagu waxaa uu muhiim u yahay Maalinta Xogta Furan: qof kastaa wuxuu xor u yahay inuu u uku soo biiriyo ra'yigiisa qaab wax dhisaya. Xirfad ama aqoon kasta oo aad leedaha, waxaan kugu dhiirigelinaynaa abaabulayaasha Maalinta Xogta Furan in ay u marti galiyaan barnaamin fursad u siinaaya ka qeybgala yaasha in ay wax ka bartaan, kuna baraarkugaan isticmaalka xoggaha furan.  
 
-If you have an idea for using open data, want to find an interesting project to contribute towards, learn about how to visualise or analyse data or simply want to see what's happening, then come participate! Participation is a core value of Open Data Day, everyone is free to voice their opinions in a constructive manner. No matter your skill-set or interests, we are encouraging organisers to foster opportunities for you to learn and help the global open data community grow.
 ---
-who_title_1: People
+who_title_1: Muwaadiniinta 
 ---
 who_description_1:
+Waxaan kaaga baahanahay wax walba. Haddii aysan Tabarucayaasha dunida  ahayn, waxqabadkeena  ma dhaceen. Waxaan ubaahanahay fikradaada, taageeradaada iyo tabatucida si aan u faafino fikirka xogta furan.
 
-We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. Wherever you come from and whatever your background, we need you.
 ---
-who_title_2: Public servants
+who_title_2: Shaqaalaha Dawladda
 ---
 who_description_2:
 
-Your input and context can help us to make government data better. Come converse and learn.
+Fikradaada iyo aragtidaadu waxay naga caawin kartaa inaan horumarino xogta dadweynaha. Kaalay oo nala sheekeyso.
 ---
-who_title_3: Designers
+who_title_3: Naqshadayaasha
 ---
 who_description_3:
 
-Help us make open data relatable, so more people will use it and understand it.
+Naga caawi inaan ka dhigno xogta furan mid la fahmi karo oo macno leh si dad badani u isticmaalaan una fahmaan.
 ---
-who_title_4: Developers
+who_title_4: Kobciye
 ---
 who_description_4:
-
-Use your skills to develop solutions that can help solve important societal issues.
+Adeegso xirfadahaaga si aad u horumariso xalal caawiya wax ka qabadka arrimaha bulshada ee muhiimka ah.
 ---
-who_title_5: Statisticians
+who_title_5: Aqoonyahanada tirakoobka
 ---
 who_description_5:
 
-Use your skills to help understand the data and get important insights from it.
+Adeegso xirfadahaaga si aad uga caawiso fahamka xogta, kana soosaar macno dharaandhirin ku saleysan oo muhiim ah.
 ---
 resources_heading: Event Resources
 ---
